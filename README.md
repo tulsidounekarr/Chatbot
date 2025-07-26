@@ -7,8 +7,8 @@ This project is part of an internship task to understand basic **NLP structure**
 
 # 🎯 Objective
 
-> Build a simple rule-based chatbot using Python, input/output loops, and conditional logic.  
-> The chatbot responds based on predefined rules without using AI or machine learning.
+- Build a simple rule-based chatbot using Python, input/output loops, and conditional logic.  
+- The chatbot responds based on predefined rules without using AI or machine learning.
 
 ---
 
