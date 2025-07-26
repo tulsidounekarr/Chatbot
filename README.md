@@ -51,7 +51,7 @@ chatbot-project/
 
 # 📸 Screenshot
 
-![Chatbot GUI](chatbot_screenshot.png)
+![image alt](https://github.com/tulsidounekarr/Chatbot/blob/49d2ce3cdeb488d18181760095c99aa383b0fa80/image%20(19).png)
 
 ---
 
