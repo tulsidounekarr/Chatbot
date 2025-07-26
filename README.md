@@ -1,4 +1,4 @@
-# 🤖 Chatbot using Python & Tkinter
+# 🤖 Rule Based Chatbot using Python & Tkinter
 
 A beginner-friendly, GUI-based **rule-based chatbot** built in Python using `if-elif-else` conditions and `Tkinter`.  
 This project is part of an internship task to understand basic **NLP structure**, control flow, and GUI handling in Python.
